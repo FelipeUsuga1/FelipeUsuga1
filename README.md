@@ -24,4 +24,4 @@ integration of innovative technologies that promote
 digital transformation and generate value in
 organizations
 
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+![DinoGifOscuro](https://github.com/user-attachments/assets/39b88fed-5df0-467c-9b82-8fbd47d1beb0)
