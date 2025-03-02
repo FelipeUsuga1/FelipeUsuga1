@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Felipe Usuga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2> Hey there! I'm Felipe Usuga <img src="https://github.com/user-attachments/assets/7c3d1f16-986a-4c9e-a943-855767030060" width="35"></h2>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
