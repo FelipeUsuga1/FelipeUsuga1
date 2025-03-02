@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Felipe Usuga <img src="https://github.com/user-attachments/assets/7c3d1f16-986a-4c9e-a943-855767030060" width="35"></h2>
+<h2 align="center"> Hey there! I'm Felipe Usuga<img src="https://github.com/user-attachments/assets/7c3d1f16-986a-4c9e-a943-855767030060" width="35"></h2>
 
  <picture><img src = "https://github.com/user-attachments/assets/1e94b27d-6cc2-4af9-83ef-c2e56260a09f" width = 80px></picture> 
 
